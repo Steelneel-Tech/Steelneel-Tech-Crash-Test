@@ -1,0 +1,14 @@
+@echo off
+start winword
+start mspaint
+start notepad
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+
+
+:: Disclaimer we are not responsible for any harm done to your computer. Run this file at your own risk.
+:: Steelneel Tech 2022
